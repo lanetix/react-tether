@@ -1,6 +1,6 @@
 {
-  "name": "react-tether",
-  "version": "0.5.7",
+  "name": "@lanetix/react-tether",
+  "version": "1.0.0",
   "description": "Drop content anywhere on the page.",
   "main": "lib/react-tether.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/souporserious/react-tether"
+    "url": "https://github.com/lanetix/react-tether"
   },
   "keywords": [
     "react",
@@ -23,19 +23,19 @@
     "component",
     "drop"
   ],
-  "author": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)",
+  "author": "Lanetix <engineering@lanetix.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/souporserious/react-tether/issues"
+    "url": "https://github.com/lanetix/react-tether/issues"
   },
-  "homepage": "https://github.com/souporserious/react-tether",
+  "homepage": "https://github.com/lanetix/react-tether",
   "dependencies": {
     "prop-types": "^15.5.8",
     "tether": "^1.3.7"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0"
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
+    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
@@ -52,10 +52,10 @@
     "node-libs-browser": "^1.0.0",
     "node-sass": "^3.2.0",
     "postcss-loader": "^0.13.0",
-    "react": "15.3.2",
-    "react-dom": "15.3.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "react-motion": "^0.4.2",
-    "react-motion-ui-pack": "^0.6.0",
+    "react-motion-ui-pack": "^0.10.3",
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.2",
