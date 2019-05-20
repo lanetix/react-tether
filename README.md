@@ -1,3 +1,5 @@
+GSB: This has been re-forked from the upstream repo, and the 1.x branch is modified and used for the release.
+
 ## React Tether
 
 [![Dependency Status](https://david-dm.org/souporserious/react-tether.svg)](https://david-dm.org/souporserious/react-tether)
